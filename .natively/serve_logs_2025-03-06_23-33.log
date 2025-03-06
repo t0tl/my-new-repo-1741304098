@@ -1,0 +1,23 @@
+ INFO  Accepting connections at http://localhost:8082
+ HTTP  3/6/2025 11:33:02 PM 172.20.0.1 GET /
+ HTTP  3/6/2025 11:33:02 PM 172.20.0.1 Returned 200 in 15 ms
+ HTTP  3/6/2025 11:33:05 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/6/2025 11:33:05 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/6/2025 11:33:05 PM 172.20.0.1 GET /_expo/static/js/web/index-a499d4475543163afdda1645928bfc09.js
+ HTTP  3/6/2025 11:33:05 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/6/2025 11:33:06 PM 172.20.0.1 GET /favicon.ico
+ HTTP  3/6/2025 11:33:06 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/6/2025 11:33:06 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/6/2025 11:33:06 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/6/2025 11:36:27 PM 172.20.0.1 GET /
+ HTTP  3/6/2025 11:36:27 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/6/2025 11:36:27 PM 172.20.0.1 GET /_expo/static/js/web/index-c7472ee2cd0402db60a98dcbfdba021f.js
+ HTTP  3/6/2025 11:36:27 PM 172.20.0.1 Returned 200 in 7 ms
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 GET /favicon.ico
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 GET /assets/assets/fonts/SF-Pro.624c45a34fbc015fb178fedaf28ef904.ttf
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 Returned 200 in 57 ms
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 GET /assets/node_modules/@expo/vector-icons/build/vendor/react-native-vector-icons/Fonts/Ionicons.6148e7019854f3bde85b633cb88f3c25.ttf
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 GET /assets/assets/fonts/SF-Pro.624c45a34fbc015fb178fedaf28ef904.ttf
+ HTTP  3/6/2025 11:36:29 PM 172.20.0.1 Returned 200 in 1 ms
